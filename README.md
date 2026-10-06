@@ -1,8 +1,6 @@
 # Behavioral-Indicators-of-AI-Generated-Phishing-Content
 NLP analysis of 4,000 emails using behavioral indicators and machine learning to distinguish AI-generated from human-written content and phishing from legitimate emails.
 
-# Behavioral Indicators of AI-Generated Phishing Content
-
 ## Overview
 
 This research project was completed during a Data Intern / Research Assistant position at the University at Albany. It explores how behavioral indicators in email language can help distinguish AI-generated from human-written emails and phishing from legitimate emails.
